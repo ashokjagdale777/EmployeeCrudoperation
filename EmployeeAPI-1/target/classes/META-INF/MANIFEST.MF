@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ashjagda
+Build-Jdk: 19.0.1
+Implementation-Title: EmployeeAPI-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cg
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBootCru
+ d
+Created-By: Maven Integration for Eclipse
+
